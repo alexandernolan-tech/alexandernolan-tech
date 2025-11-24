@@ -41,7 +41,10 @@ This GitHub contains my case studies, methodologies, and notes as I work toward 
 - Windows 11/10 debugging  
 - File system structure & directory diagnostics  
 - Explorer/shell behavior, known-folder mapping  
-- System cleanup & performance troubleshooting  
+- System cleanup & performance troubleshooting
+- Version control basics (Git/GitHub)
+- Virtualization basics (VirtualBox)
+- OS installation fundamentals  
 
 **Networking**  
 - WiFi connectivity troubleshooting  
