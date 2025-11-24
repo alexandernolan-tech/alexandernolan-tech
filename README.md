@@ -75,4 +75,14 @@ This GitHub contains my case studies, methodologies, and notes as I work toward 
 
 ---
 
+## 📝 Notes & Learning Logs
+
+- [Home Lab Plan](notes/home-lab-plan.md)
+- [PowerShell Basics](notes/powershell-basics.md)
+- (More notes coming soon as I continue studying and building out my home lab)
+
+---
+
+_Last updated: November 2025_
+
 Thanks for visiting — more coming soon 🚀
