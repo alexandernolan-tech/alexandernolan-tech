@@ -11,19 +11,19 @@ This GitHub contains my case studies, methodologies, and notes as I work toward 
 
 - **Windows File Picker Shell Corruption**  
   Troubleshooting and repairing a complex WinUI/shell failure that affected system-wide file pickers.  
-  ➜ [Read the case study](case-studies/windows-file-picker-case-study.md)
+  ➜ [Read the case study](case-studies/file-picker-case-study.md)
 
 - **Home WiFi Random Disconnects**  
   Diagnosed multi-device connectivity drops and documented root causes and long-term fixes.  
-  ➜ [Read the case study](case-studies/home-wifi-random-disconnects.md)
+  ➜ [Read the case study](case-studies/home-wifi-case-study.md)
 
 - **Sims 4 DLC Not Recognized**  
   Identified directory integrity issues preventing DLC enumeration and restored content detection.  
-  ➜ [Read the case study](case-studies/sims4-dlc-missing-case-study.md)
+  ➜ [Read the case study](case-studies/sims4-dlc-case-study.md)
 
 - **Script Mod Loading Conflict**  
   Used structured isolation to find a single incompatible script mod blocking loader initialization.  
-  ➜ [Read the case study](case-studies/script-mod-loading-conflict.md)
+  ➜ [Read the case study](case-studies/script-mod-conflict-case-study.md)
 
 ---
 
