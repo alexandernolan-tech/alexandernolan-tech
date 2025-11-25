@@ -64,3 +64,5 @@ My case studies emphasize:
 ## 📎 Contact
 
 If you're reviewing my portfolio for IT support, desktop support, or junior technician roles, feel free to reach out via LinkedIn or GitHub.
+
+*Last updated November 2025*
