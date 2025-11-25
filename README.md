@@ -1,88 +1,66 @@
-# Hi, I'm Alexander 👋
+# 🌐 IT Troubleshooting Portfolio
 
-I'm learning IT and systems administration through hands-on troubleshooting and personal projects.  
-I enjoy digging into strange technical issues, understanding why systems break, and documenting clear, repeatable solutions.
+Welcome to my collection of hands-on troubleshooting case studies.  
+I use virtualized test environments and real-world problem scenarios to break systems on purpose, diagnose failures, and document clear, repeatable paths to resolution.  
 
-This GitHub contains my case studies, methodologies, and notes as I work toward a role in helpdesk or junior sysadmin work.
+My focus is developing strong analytical skills across Windows systems, networking fundamentals, and application-level behavior — all while writing documentation that mirrors professional IT workflows.
 
 ---
 
 ## 🔧 Featured Case Studies
 
-- **Windows File Picker Shell Corruption**  
-  Troubleshooting and repairing a complex WinUI/shell failure that affected system-wide file pickers.  
-  ➜ [Read the case study](case-studies/file-picker-case-study.md)
-
-- **Home WiFi Random Disconnects**  
-  Diagnosed multi-device connectivity drops and documented root causes and long-term fixes.  
-  ➜ [Read the case study](case-studies/home-wifi-case-study.md)
-
-- **Sims 4 DLC Not Recognized**  
-  Identified directory integrity issues preventing DLC enumeration and restored content detection.  
-  ➜ [Read the case study](case-studies/sims4-dlc-case-study.md)
-
-- **Script Mod Loading Conflict**  
-  Used structured isolation to find a single incompatible script mod blocking loader initialization.  
-  ➜ [Read the case study](case-studies/script-mod-conflict-case-study.md)
+### 🗂 **Windows File Picker Shell Corruption**  
+Troubleshot and repaired a complex WinUI/shell failure where Open/Save dialogs stopped responding across multiple applications. Used UI subsystem analysis, shell component testing, and log review to restore normal functionality.  
+➡️ [Read the case study](case-studies/file-picker-case-study.md)
 
 ---
 
-## 🧭 Methodologies
-
-- **50/50 Troubleshooting Technique**  
-  A structured, binary-search style method I frequently use to isolate conflicting mods or files.  
-  ➜ [Read the methodology](methodologies/50-50-mod-troubleshooting.md)
+### 📡 **Home WiFi Random Disconnects**  
+Diagnosed intermittent, multi-device connectivity drops. Identified wireless interference patterns, firmware issues, and router misbehavior. Documented short-term fixes and long-term prevention steps.  
+➡️ [Read the case study](case-studies/home-wifi-case-study.md)
 
 ---
 
-## 🛠️ Skills & Tools
-
-**Operating Systems & Troubleshooting**  
-- Windows 11/10 debugging  
-- File system structure & directory diagnostics  
-- Explorer/shell behavior, known-folder mapping  
-- System cleanup & performance troubleshooting
-- Version control basics (Git/GitHub)
-- Virtualization basics (VirtualBox)
-- OS installation fundamentals  
-
-**Networking**  
-- WiFi connectivity troubleshooting  
-- Router behavior & interference analysis  
-- Basic TCP/IP concepts  
-
-**Scripting & Tools**  
-- PowerShell fundamentals  
-- Git & GitHub  
-- XML tuning & configuration file editing  
-- Modding/debugging tools (Melon Loader, Sims 4 mod structure)  
-
-**Troubleshooting Techniques**  
-- Root cause analysis  
-- Binary search / 50-50 isolation  
-- Structured documentation  
-- Dependency and version mismatch analysis  
+### 🎮 **Sims 4 DLC Not Recognized**  
+Identified directory integrity and metadata issues preventing DLC enumeration. Rebuilt directory structure, cleaned corrupted files, validated permissions, and restored full content detection.  
+➡️ [Read the case study](case-studies/sims4-dlc-case-study.md)
 
 ---
 
-## 📚 Currently Learning
-
-- PowerShell scripting  
-- Home lab networking  
-- Virtualization (Hyper-V / VirtualBox)  
-- Windows Server fundamentals  
-- Active Directory basics  
+### 🧩 **Script Mod Loading Conflict**  
+Applied structured 50/50 isolation to locate a single incompatible script mod blocking the entire mod loader. Rebuilt and validated the mod environment and documented a reusable troubleshooting workflow.  
+➡️ [Read the case study](case-studies/script-mod-conflict-case-study.md)
 
 ---
 
-## 📝 Notes & Learning Logs
-
-- [Home Lab Plan](notes/home-lab-plan.md)
-- [PowerShell Basics](notes/powershell-basics.md)
-- (More notes coming soon as I continue studying and building out my home lab)
+### 🌐 **DNS Misconfiguration & Network Failure**  
+Simulated a DNS outage inside a Windows VM by configuring invalid DNS servers. Investigated failed hostname lookups, compared IP vs. hostname behavior, used `nslookup` to identify resolver failure, flushed DNS cache, and restored proper DNS resolution. Demonstrated clear differentiation between DNS layer issues and general network failures.  
+➡️ [Read the case study](case-studies/dns-misconfiguration-case-study.md)
 
 ---
 
-_Last updated: November 2025_
+## 🖥 Technical Focus Areas
 
-Thanks for visiting — more coming soon 🚀
+- Windows troubleshooting  
+- Networking fundamentals (DNS, DHCP, routing, connectivity)  
+- Virtualized environments (VirtualBox/VMs)  
+- Application and system-level diagnostics  
+- Log analysis & root-cause isolation  
+- System configuration & dependency resolution  
+- Repeatable documentation & knowledge-base style writing  
+
+---
+
+## 📚 Methodology
+
+My case studies emphasize:  
+- **Structured troubleshooting** using isolation, iterative testing, and reproducibility  
+- **Clear documentation** (Symptoms → Investigation → Root Cause → Resolution → Verification)  
+- **Understanding system behavior**, not just applying fixes  
+- **Preventative guidance** and long-term reliability thinking  
+
+---
+
+## 📎 Contact
+
+If you're reviewing my portfolio for IT support, desktop support, or junior technician roles, feel free to reach out via LinkedIn or GitHub.
