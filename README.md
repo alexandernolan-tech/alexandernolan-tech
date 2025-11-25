@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Alex
+# 👋 Hi, I’m Alexander
 
 I’m an early-career IT support professional with a background in customer-facing leadership roles and a growing focus on systems troubleshooting, documentation, and technical analysis.  
 I love breaking things (on purpose), figuring out why they broke, and writing clear, human-friendly documentation that helps others understand systems better.
