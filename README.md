@@ -1,66 +1,73 @@
-# 🌐 IT Troubleshooting Portfolio
+# 👋 Hi, I’m Alex
 
-Welcome to my collection of hands-on troubleshooting case studies.  
-I use virtualized test environments and real-world problem scenarios to break systems on purpose, diagnose failures, and document clear, repeatable paths to resolution.
+I’m an early-career IT support professional with a background in customer-facing leadership roles and a growing focus on systems troubleshooting, documentation, and technical analysis.  
+I love breaking things (on purpose), figuring out why they broke, and writing clear, human-friendly documentation that helps others understand systems better.
 
-My focus is developing strong analytical skills across Windows systems, networking fundamentals, and application-level behavior — while writing documentation that mirrors professional IT workflows.
-
----
-
-## 🔧 Featured Case Studies
-
-### 🗂 **Windows File Picker Shell Corruption**  
-Troubleshot and repaired a complex WinUI/shell failure where Open/Save dialogs stopped responding across applications. Used UI subsystem analysis, shell component testing, and log review to restore normal functionality.  
-➡️ [📄 View Case Study](https://github.com/alexandernolan-tech/it-portfolio/blob/main/case-studies/file-picker-case-study.md)
+Right now I’m building out my home lab, sharpening my troubleshooting methodology, and working toward my first IT Support / Help Desk / Desktop Support role — ideally in a creative, retail, or mission-driven environment.
 
 ---
 
-### 📡 **Home WiFi Random Disconnects**  
-Diagnosed intermittent multi-device WiFi drops by analyzing router interference, firmware instability, and DHCP behavior. Documented short-term fixes and long-term stability steps.  
-➡️ [📄 View Case Study](https://github.com/alexandernolan-tech/it-portfolio/blob/main/case-studies/home-wifi-case-study.md)
+## 🔧 What I’m Working On
+
+- Building a hands-on troubleshooting portfolio using VMs, Windows environments, and simulated failures  
+- Writing case studies that mirror real IT workflows (symptoms → investigation → root cause → resolution → verification)  
+- Practicing networking fundamentals like DNS, DHCP, routing, and connectivity testing  
+- Strengthening my documentation and reproducible problem-solving processes  
+- Exploring roles that combine **customer experience + technical support**
+
+You can check out all of my case studies here:  
+➡️ **[IT Troubleshooting Portfolio](https://github.com/alexandernolan-tech/it-portfolio)**
 
 ---
 
-### 🎮 **Sims 4 DLC Not Recognized**  
-Investigated DLC detection failures caused by corrupted directory structure and metadata inconsistencies. Reconstructed full file paths, validated permissions, and restored proper content recognition.  
-➡️ [📄 View Case Study](https://github.com/alexandernolan-tech/it-portfolio/blob/main/case-studies/sims4-dlc-case-study.md)
+## 🛠 Technical Skills
+
+- **Systems:** Windows 10/11, VirtualBox, VM troubleshooting  
+- **Networking:** DNS, DHCP, IP addressing, connectivity testing, `nslookup`, `ping`  
+- **Tools:** GitHub, Markdown, log analysis, documentation workflows  
+- **Troubleshooting:** 50/50 isolation, dependency analysis, reproducible testing  
+- **Customer Experience:** communication, training, conflict resolution, workflow optimization  
 
 ---
 
-### 🧩 **Script Mod Loading Conflict**  
-Applied structured 50/50 isolation (binary search troubleshooting) to identify one incompatible script mod blocking the entire loader. Rebuilt the mod stack and produced reusable documentation for resolving large mod conflicts.  
-➡️ [📄 View Case Study](https://github.com/alexandernolan-tech/it-portfolio/blob/main/case-studies/script-mod-conflict-case-study.md)
+## 📚 Featured Work
+
+A few of my favorite case studies:
+
+- **Windows File Picker Shell Corruption** — Debugged a system-level UI failure affecting Open/Save dialogs  
+- **DNS Misconfiguration & Network Failure** — Simulated DNS outages in a VM and diagnosed resolver behavior  
+- **Home WiFi Random Disconnects** — Analyzed multi-device connectivity problems using real-world interference patterns  
+- **GitHub Link 404 Troubleshooting** — Resolved documentation path failures by correcting relative/absolute links  
+
+Full list here:  
+📂 **https://github.com/alexandernolan-tech/it-portfolio**
 
 ---
 
-### 🌐 **DNS Misconfiguration & Network Failure**  
-Simulated a DNS outage inside a Windows VM by assigning invalid DNS servers. Compared IP vs. hostname behavior, used `nslookup` to identify resolver failure, flushed DNS cache, corrected DNS configuration, and restored normal network resolution.  
-➡️ [📄 View Case Study](https://github.com/alexandernolan-tech/it-portfolio/blob/main/case-studies/dns-misconfiguration-case-study.md)
+## 🎯 What I’m Looking For
+
+I’m exploring:
+
+- IT Support / Help Desk (Tier 1–2)  
+- Desktop Support  
+- Technical customer support  
+- Hybrid roles in retail/fashion, entertainment, or creative companies  
+- Teams that value clear communication, curiosity, and thoughtful problem-solving
 
 ---
 
-## 🖥 Technical Focus Areas
+## 📫 Connect With Me
 
-- Windows troubleshooting  
-- Networking fundamentals (DNS, DHCP, routing, connectivity)  
-- Virtualized environments (VirtualBox/VMs)  
-- Application and system-level diagnostics  
-- Log analysis & root-cause isolation  
-- System configuration & dependency resolution  
-- Repeatable documentation & knowledge-base style writing  
+- **GitHub:** you're here!  
+- **LinkedIn:** (add your link when ready)  
+- **Portfolio:** https://github.com/alexandernolan-tech/it-portfolio  
+
+Always open to feedback, opportunities, and collaborative troubleshooting.
 
 ---
 
-## 📚 Methodology
+## ✨ Fun Stuff
 
-My case studies emphasize:  
-- **Structured troubleshooting** using isolation, iterative testing, and reproducibility  
-- **Clear documentation** (Symptoms → Investigation → Root Cause → Resolution → Verification)  
-- **Understanding system behavior**, not just applying fixes  
-- **Preventative guidance** and long-term reliability thinking  
-
----
-
-## 📎 Contact
-
-If you're reviewing my portfolio for IT support, desktop support, or junior technician roles, feel free to reach out via LinkedIn or GitHub.
+- I troubleshoot games and mods for fun (and somehow always fix them).  
+- I like systems that are *just* chaotic enough to be interesting.  
+- I enjoy documenting problems as much as solving them.  
