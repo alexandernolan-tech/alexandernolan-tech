@@ -59,7 +59,6 @@ I’m exploring:
 ## 📫 Connect With Me
 
 - **GitHub:** you're here!  
-- **LinkedIn:** (add your link when ready)  
 - **Portfolio:** https://github.com/alexandernolan-tech/it-portfolio  
 
 Always open to feedback, opportunities, and collaborative troubleshooting.
